@@ -1,0 +1,21 @@
+p{
+  font-family: Montserrat;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.head{
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.order{
+  color: rgb(96, 96, 96);
+  font-size: 24px;
+}
+
+.touchless{
+  text-decoration: underline;
+}
