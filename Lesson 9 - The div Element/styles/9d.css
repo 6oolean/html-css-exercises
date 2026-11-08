@@ -1,0 +1,22 @@
+div{
+  font-family: Roboto;
+  background-color: rgb(44, 40, 40);
+  width: 380px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.header{
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text{
+  color: grey;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
