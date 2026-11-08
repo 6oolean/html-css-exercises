@@ -1,0 +1,18 @@
+div{
+  font-family: Arial;
+  border-style: solid;
+  border-color: gray;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  width: 400px;
+}
+
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+button{
+  margin-top: 15px;
+}
