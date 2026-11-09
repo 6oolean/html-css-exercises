@@ -1,0 +1,52 @@
+.card,.card2,.card3{
+  font-family: Arial;
+  border-style: none;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  width: 150px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.profile{
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.profile2{
+  height: 150px;
+  width: 150px;
+  object-fit: cover;
+  object-position: top;
+}
+
+.name{
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+}
+
+.friends{
+  font-size: 14px;
+  color: grey;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 8px;
+}
+
+.add-friend{
+  background-color: rgb(50, 146, 236);
+  border-style: none;
+  border-radius: 2px;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+  margin-left: 8px;
+  margin-bottom: 8px;
+}
